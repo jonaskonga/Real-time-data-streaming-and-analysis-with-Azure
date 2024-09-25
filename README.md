@@ -20,7 +20,7 @@ A **python script** that will retrieve the data from the **API** and connect to 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/f40cb4d0-467c-426e-9364-1cc0f4999fd2" title="Azure event hub" alt="Azure event hub" width="50" height="50"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/ca9e079b-ccd3-4604-bb05-77e1e352e94b" title="Azure stream analytics" alt="Azure stream analytics" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/e87dfd8b-7122-40a7-a38d-9b5ff701758a" title="Azure stream analytics" alt="Azure stream analytics" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/e87dfd8b-7122-40a7-a38d-9b5ff701758a" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp;
 
 </div>
 
