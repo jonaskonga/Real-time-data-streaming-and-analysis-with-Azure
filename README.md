@@ -1,6 +1,11 @@
 # Real-time-data-streaming-and-analysis-with-Azure
+## About the project :
 
-OpenSky Python API : https://opensky-network.org/
+A **python script** that will retrieve the data from the **API** and connect to our **event hub** to send all the retrieved data at regular intervals. This data will then be analyzed, processed via Azure **stream Analytics** and **visualized in Power BI**.
+
+<strong>(french)</strong>Un script python qui va récupérer les données depuis l’API et nous connecter à notre event hub pour envoyer à intervalle de temps régulier toute la donné recuperée. Ensuite ces données seront analysées, traitées via Azure stream Analytics pour être visualisé sur Power BI.
+
+**OpenSky Python API** : https://opensky-network.org/
 
 ### OUR DATA PIPELINE ARCHITECTURE 
 
@@ -9,3 +14,4 @@ OpenSky Python API : https://opensky-network.org/
   
 </div><br>
 
+### Technologies used
