@@ -1,6 +1,6 @@
 # Real-time-data-streaming-and-analysis-with-Azure
 
-OpenSky Python API : https://openskynetwork.github.io/opensky-api/python.html
+OpenSky Python API : https://opensky-network.org/
 
 ### OUR DATA PIPELINE ARCHITECTURE 
 
