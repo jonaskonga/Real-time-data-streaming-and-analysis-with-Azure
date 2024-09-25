@@ -15,3 +15,10 @@ A **python script** that will retrieve the data from the **API** and connect to 
 </div><br>
 
 ### Technologies used
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50%" height="50%"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
+
+</div>
