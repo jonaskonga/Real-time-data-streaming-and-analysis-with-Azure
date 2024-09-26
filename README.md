@@ -25,7 +25,7 @@ A **python script** that will retrieve the data from the **API** and connect to 
 </div>
 
 
-### DASHBOARD WITH POWER BI
+### Result of Dashboard With POWER BI
 <div align="left">
   <img src="https://github.com/user-attachments/assets/eeabe44b-3c94-4698-84d9-7ec8fdc82ee2" width="100%" height="100%"/>
   
